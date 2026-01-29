@@ -13,7 +13,7 @@ This is a simple HTML-based portfolio website created as part of a web developme
 - Contact information at the bottom
 
 ## Live Demo
-https://github.com/Vamsivarma116/portfolio-page
+https://vamsivarma116.github.io/portfolio-page/
 
 ## Screenshots
 ![Home Page](screenshots/Screenshot1.png)
